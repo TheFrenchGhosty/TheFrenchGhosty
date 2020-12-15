@@ -6,7 +6,7 @@ I am the creator, developer, manager, and administrator of [PussTheCat.org](http
 
 I also currently manage the [Invidious](https://github.com/iv-org/invidious) project  (but I am not a developer).
 
-I am also a non-professional SysAdmin, Bug Tester, French Translator, data archivist and I'm what Reddit call a  "datahoarder".
+I am also a non-professional SysAdmin, Bug Tester, French Translator, data archivist (what Reddit call a  "datahoarder").
 
 You can support me on Liberapay: [![Liberapay](./images/liberapay.svg)](https://liberapay.com/TheFrenchGhosty/donate)
 
@@ -20,10 +20,12 @@ By supporting me, you are also supporting [PussTheCat.org](https://pussthecat.or
 
 - The [GOG Archivist Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-GOG-Archivist-Scripts): "The ultimate collection of scripts to download everything you bought on GOG.com."
 
+- [Awesome-Art](https://github.com/TheFrenchGhosty/awesome-art): "A curated list of as much artistic creations (movies/musics/games/books...) that are worth checking."
+
 - Managing [Invidious](https://github.com/iv-org/invidious).
 
 - Translating [Invidious](https://github.com/iv-org/invidious) to French.
 
 - Tons of bug reports for open source software.
 
-- More! 
+- More!
