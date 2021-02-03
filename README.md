@@ -1,6 +1,6 @@
 **Creator of PussTheCat.org,  YouTube-DL Archivist Scripts, GOG Archivist Scripts, and more.**
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheFrenchGhosty&show_icons=true&theme=dark&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheFrenchGhosty&show_icons=true&theme=dark&include_all_commits=true)
 
 ---
 
