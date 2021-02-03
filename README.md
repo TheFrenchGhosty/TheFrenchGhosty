@@ -1,5 +1,7 @@
 **Creator of PussTheCat.org,  YouTube-DL Archivist Scripts, GOG Archivist Scripts, and more.**
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheFrenchGhosty&show_icons=true&theme=dark&include_all_commits=true)
+
 ---
 
 I am the creator, developer, manager, and administrator of [PussTheCat.org](https://pussthecat.org/) (more information [Here](https://pussthecat.org/about/)).
