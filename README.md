@@ -10,7 +10,7 @@ I also currently manage the [Invidious](https://github.com/iv-org/invidious) pro
 
 I am also a non-professional SysAdmin, Bug Tester, French Translator, data archivist (what Reddit call a  "datahoarder").
 
-You can support me on Liberapay [![Liberapay](./images/liberapay.svg)](https://liberapay.com/TheFrenchGhosty/donate) (or by donating [cryptocurrencies](https://pussthecat.org/about/).
+You can support me on Liberapay [![Liberapay](./images/liberapay.svg)](https://liberapay.com/TheFrenchGhosty/donate) (or by donating [cryptocurrencies](https://pussthecat.org/about/)).
 
 By supporting me, you are also supporting [PussTheCat.org](https://pussthecat.org/), and everything else I do.
 
