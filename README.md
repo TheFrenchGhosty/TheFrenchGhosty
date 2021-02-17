@@ -1,4 +1,6 @@
-**Creator of PussTheCat.org,  YouTube-DL Archivist Scripts, GOG Archivist Scripts, and more.**
+**Creator of PussTheCat.org, Ultimate YouTube-DL Scripts Collection, GOG Archivist Scripts, and more.**
+
+**Maintainer of the Invidious project.**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheFrenchGhosty&show_icons=true&theme=dark&include_all_commits=true)
 
@@ -6,9 +8,9 @@
 
 I am the creator, developer, manager, and administrator of [PussTheCat.org](https://pussthecat.org/) (more information [Here](https://pussthecat.org/about/)).
 
-I also currently manage the [Invidious](https://github.com/iv-org/invidious) project  (but I am not a developer).
+I also currently manage the [Invidious](https://github.com/iv-org/invidious) project (but I am not a developer).
 
-I am also a non-professional SysAdmin, Bug Tester, French Translator, data archivist (what Reddit call a  "datahoarder").
+I am also a non-professional SysAdmin, Bug Tester, French Translator, data archivist (what Reddit call a "datahoarder").
 
 ---
 
