@@ -10,15 +10,13 @@ I also currently manage the [Invidious](https://github.com/iv-org/invidious) pro
 
 I am also a non-professional SysAdmin, Bug Tester, French Translator, data archivist (what Reddit call a  "datahoarder").
 
-You can support me on Liberapay [![Liberapay](./images/liberapay.svg)](https://liberapay.com/TheFrenchGhosty/donate) (or by donating [cryptocurrencies](https://pussthecat.org/about/)).
-
-By supporting me, you are also supporting [PussTheCat.org](https://pussthecat.org/), and everything else I do.
+---
 
 **Some of my work include:**
 
 - [PussTheCat.org](https://pussthecat.org/): "PussTheCat.org provide access to open source services that are focused on privacy and video games servers." (more information [Here](https://pussthecat.org/about/)).
 
-- The [YouTube-DL Archivist Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-YouTube-DL-Archivist-Scripts): " The ultimate collection of scripts for YouTube-DL."
+- The [Ultimate YouTube-DL Scripts Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection): " The ultimate collection of scripts for YouTube-DL."
 
 - The [GOG Archivist Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-GOG-Archivist-Scripts): "The ultimate collection of scripts to download everything you bought on GOG.com."
 
@@ -31,3 +29,21 @@ By supporting me, you are also supporting [PussTheCat.org](https://pussthecat.or
 - Tons of bug reports for open source software.
 
 - More!
+
+---
+
+## Donate:
+
+Liberapay: https://liberapay.com/TheFrenchGhosty
+
+Bitcoin (BTC): [bc1qjpal63yc94jw03pnhu3vyfqv7djxsr0lmwe5jk](bitcoin:bc1qjpal63yc94jw03pnhu3vyfqv7djxsr0lmwe5jk)
+
+Monero (XMR): [44yL1VNsRmvW3khxHAQvzr9mfyfkMLFmS5xo3EehkQRgcBSgAUcoqf4Cj9mTyCwEPm1Sif1Pqdbw5UoFCvNLNp6CET277J6](monero:44yL1VNsRmvW3khxHAQvzr9mfyfkMLFmS5xo3EehkQRgcBSgAUcoqf4Cj9mTyCwEPm1Sif1Pqdbw5UoFCvNLNp6CET277J6)
+
+---
+
+## Contact:
+
+If you want to get in touch with me, or other users of my projects, feel free to join the Matrix room of one of my other project [PussTheCat.org](https://pussthecat.org): [#pussthecat.org:pussthecat.org](https://matrix.to/#/#pussthecat.org:pussthecat.org).
+
+If you want to contact me privately, see: https://pussthecat.org/about/.
