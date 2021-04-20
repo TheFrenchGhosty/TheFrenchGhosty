@@ -1,6 +1,6 @@
-**Creator of PussTheCat.org, Ultimate YouTube-DL Scripts Collection, GOG Archivist Scripts, and more.**
+**Creator of [PussTheCat.org](https://pussthecat.org/), [Ultimate YouTube-DL Scripts Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection), [GOG Archivist Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-GOG-Archivist-Scripts), and [more](https://github.com/TheFrenchGhosty).**
 
-**Maintainer of the Invidious project.**
+**Project manager of the [Invidious project](https://github.com/iv-org).**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheFrenchGhosty&show_icons=true&theme=dark)
 
@@ -8,9 +8,9 @@
 
 I am the creator, developer, manager, and administrator of [PussTheCat.org](https://pussthecat.org/) (more information [Here](https://pussthecat.org/about/)).
 
-I also currently manage the [Invidious](https://github.com/iv-org/invidious) project (but I am not a developer).
+I currently manage [Invidious](https://github.com/iv-org/invidious) and the [Invidious project](https://github.com/iv-org).
 
-I am also a non-professional SysAdmin, Bug Tester, French Translator, data archivist.
+I am also a non-professional System Administrator, Bug Tester, French Translator, Data Archivist.
 
 ---
 
@@ -26,9 +26,9 @@ I am also a non-professional SysAdmin, Bug Tester, French Translator, data archi
 
 - Managing [Invidious](https://github.com/iv-org/invidious).
 
-- Translating [Invidious](https://github.com/iv-org/invidious) to French.
+- Translating [Invidious](https://github.com/iv-org/invidious) to [French](https://github.com/iv-org/invidious/commits/master/locales/fr.json).
 
-- Tons of bug reports for open source software.
+- Hundreds of bug reports for open source software.
 
 - More!
 
@@ -46,6 +46,6 @@ Monero (XMR): [44yL1VNsRmvW3khxHAQvzr9mfyfkMLFmS5xo3EehkQRgcBSgAUcoqf4Cj9mTyCwEP
 
 ## Contact:
 
-If you want to get in touch with me, or other users of my projects, feel free to join the Matrix room of one of my project [PussTheCat.org](https://pussthecat.org): [#pussthecat.org:pussthecat.org](https://matrix.to/#/#pussthecat.org:pussthecat.org).
+If you want to get in touch with me, or other users of my projects, feel free to join the Matrix room of the [PussTheCat.org](https://pussthecat.org) project: [#pussthecat.org:pussthecat.org](https://matrix.to/#/#pussthecat.org:pussthecat.org).
 
 If you want to contact me privately, see: https://pussthecat.org/about/.
