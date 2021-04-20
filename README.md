@@ -14,7 +14,7 @@ I am also a non-professional System Administrator, Bug Tester, French Translator
 
 ---
 
-**Some of my work include:**
+## Some of my work include:
 
 - [PussTheCat.org](https://pussthecat.org/): "PussTheCat.org provide access to open source services that are focused on privacy and video games servers." (more information [Here](https://pussthecat.org/about/)).
 
