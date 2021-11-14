@@ -38,15 +38,21 @@ I am also a non-professional System Administrator, Bug Tester, French Translator
 
 Liberapay: https://liberapay.com/TheFrenchGhosty
 
-Bitcoin (BTC): [bc1qjpal63yc94jw03pnhu3vyfqv7djxsr0lmwe5jk](bitcoin:bc1qjpal63yc94jw03pnhu3vyfqv7djxsr0lmwe5jk)
+Ko-fi: https://ko-fi.com/TheFrenchGhosty
 
-Monero (XMR): [44yL1VNsRmvW3khxHAQvzr9mfyfkMLFmS5xo3EehkQRgcBSgAUcoqf4Cj9mTyCwEPm1Sif1Pqdbw5UoFCvNLNp6CET277J6](monero:44yL1VNsRmvW3khxHAQvzr9mfyfkMLFmS5xo3EehkQRgcBSgAUcoqf4Cj9mTyCwEPm1Sif1Pqdbw5UoFCvNLNp6CET277J6)
+Patreon: https://www.patreon.com/TheFrenchGhosty
 
-Ethereum (ETH): [0xD11eA4a29775b21DcAf707408E6771373D1d5af9](ethereum:0xD11eA4a29775b21DcAf707408E6771373D1d5af9)
+Bitcoin (BTC): bc1qjpal63yc94jw03pnhu3vyfqv7djxsr0lmwe5jk
 
-Litecoin (LTC): [ltc1qv4f7q970ajnjzuewj0wet5zed7z8s2qm44u8d7](litecoin:ltc1qv4f7q970ajnjzuewj0wet5zed7z8s2qm44u8d7)
+Monero (XMR): 44yL1VNsRmvW3khxHAQvzr9mfyfkMLFmS5xo3EehkQRgcBSgAUcoqf4Cj9mTyCwEPm1Sif1Pqdbw5UoFCvNLNp6CET277J6
 
-Wownero (WOW): [WW32Bch4nqE9ttJvMwXEiFCmPMwQQrBfAhg8vSRGNX95fV4kEVLZRjqBguQafPMqxxVXYqCqnyNdrFg5G7yrbEur2GcnpKNJp](wownero:WW32Bch4nqE9ttJvMwXEiFCmPMwQQrBfAhg8vSRGNX95fV4kEVLZRjqBguQafPMqxxVXYqCqnyNdrFg5G7yrbEur2GcnpKNJp)
+Ethereum (ETH): 0xD11eA4a29775b21DcAf707408E6771373D1d5af9
+
+Litecoin (LTC): ltc1qv4f7q970ajnjzuewj0wet5zed7z8s2qm44u8d7
+
+Wownero (WOW): WW32Bch4nqE9ttJvMwXEiFCmPMwQQrBfAhg8vSRGNX95fV4kEVLZRjqBguQafPMqxxVXYqCqnyNdrFg5G7yrbEur2GcnpKNJp
+
+Bitcoin Cash (BCH): qqypylwtyc9fe649tjn32mhrzz7d28jskcxg5rlnv2
 
 ---
 
