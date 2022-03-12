@@ -4,6 +4,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheFrenchGhosty&show_icons=true&theme=dark)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PussTheCat-org&show_icons=true&theme=dark)
+
 ---
 
 I am the creator, developer, manager, and administrator of [PussTheCat.org](https://pussthecat.org/) (more information [Here](https://pussthecat.org/about/)).
@@ -27,6 +29,8 @@ I am also a non-professional System Administrator, Bug Tester, French Translator
 - Managing [Invidious](https://github.com/iv-org/invidious).
 
 - Translating [Invidious](https://github.com/iv-org/invidious) to [French](https://github.com/iv-org/invidious/pulls?q=is%3Apr+author%3ATheFrenchGhosty+French+Translation+updated).
+
+- Various Docker images.
 
 - Hundreds of bug reports for open source software.
 
