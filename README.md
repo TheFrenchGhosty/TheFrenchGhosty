@@ -22,6 +22,8 @@ I am also a non-professional System Administrator, Bug Tester, French Translator
 
 - The [GOG Archivist Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-GOG-Archivist-Scripts): "The ultimate collection of scripts to download everything you bought on GOG.com."
 
+- The [Ultimate Firefox Configuration](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-Firefox-Configuration): "The ultimate Firefox configuration that is acceptable Privacy-Wise while being as much feature-packed as possible."
+
 - Various [production-ready Docker images](https://github.com/PussTheCat-org?q=docker)
 
 - [Awesome-Art](https://github.com/TheFrenchGhosty/awesome-art): "A curated list of as much artistic creations (movies/musics/games/books...) that are worth checking."
