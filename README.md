@@ -1,6 +1,6 @@
-**Creator of [PussTheCat.org](https://pussthecat.org/), [Ultimate YouTube-DL Scripts Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection), [GOG Archivist Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-GOG-Archivist-Scripts), [various production-ready Docker images](https://github.com/PussTheCat-org?q=docker) and [more](https://github.com/TheFrenchGhosty).**
+**Creator of [PussTheCat.org](https://pussthecat.org/), [Ultimate YouTube-DL Scripts Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection), [GOG Archivist Scripts](https://github.com/TheFrenchGhosty/TheFrenchGhostys-GOG-Archivist-Scripts), [various production-ready Docker images](https://github.com/PussTheCat-org?q=docker) and [a lot more](https://github.com/TheFrenchGhosty).**
 
-**Project manager of the [Invidious project](https://github.com/iv-org).**
+**[Project manager](https://invidious.io/team/) of the [Invidious project](https://github.com/iv-org).**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheFrenchGhosty&show_icons=true&theme=dark)
 
@@ -31,6 +31,8 @@ I am also a non-professional System Administrator, Bug Tester, French Translator
 - Managing the [Invidious project](https://github.com/iv-org), translating [it](https://github.com/iv-org/invidious) to [French](https://github.com/iv-org/invidious/pulls?q=is%3Apr+author%3ATheFrenchGhosty+French+Translation+updated).
 
 - The [Invidious.io](https://invidious.io/) website.
+
+- The [Bibliogram](https://sr.ht/~cadence/bibliogram/) banner.
 
 - Hundreds of bug reports for open source software.
 
