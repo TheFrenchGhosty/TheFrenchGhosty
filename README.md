@@ -42,23 +42,29 @@ I am also a non-professional System Administrator, Bug Tester, French Translator
 
 ## Donate:
 
-Liberapay: https://liberapay.com/TheFrenchGhosty
+- Liberapay: https://liberapay.com/TheFrenchGhosty/ (preferred)
 
-Ko-fi: https://ko-fi.com/TheFrenchGhosty
+Note: Liberapay doesn't take a cut on any donation.
 
-Patreon: https://www.patreon.com/TheFrenchGhosty
+- Ko-fi: https://ko-fi.com/TheFrenchGhosty (preferred)
 
-Bitcoin (BTC): bc1qjpal63yc94jw03pnhu3vyfqv7djxsr0lmwe5jk
+Note: Ko-fi takes a 5% cut on monthly donations (it doesn't take a cut on one time donations).
 
-Monero (XMR): 44yL1VNsRmvW3khxHAQvzr9mfyfkMLFmS5xo3EehkQRgcBSgAUcoqf4Cj9mTyCwEPm1Sif1Pqdbw5UoFCvNLNp6CET277J6
+- Patreon: https://www.patreon.com/TheFrenchGhosty
 
-Ethereum (ETH): 0xD11eA4a29775b21DcAf707408E6771373D1d5af9
+Note: Patreon takes a massive cut on donations: `8% + 5% + 0.15€ (for donations of 3€ or less)` or `8% + 3.4% + 0.35€ (for donations over 3€)` only use it if you really can't/don't want to use the others.
 
-Litecoin (LTC): ltc1qv4f7q970ajnjzuewj0wet5zed7z8s2qm44u8d7
+- Bitcoin (BTC): bc1qjpal63yc94jw03pnhu3vyfqv7djxsr0lmwe5jk
 
-Wownero (WOW): WW32Bch4nqE9ttJvMwXEiFCmPMwQQrBfAhg8vSRGNX95fV4kEVLZRjqBguQafPMqxxVXYqCqnyNdrFg5G7yrbEur2GcnpKNJp
+- Monero (XMR): 44yL1VNsRmvW3khxHAQvzr9mfyfkMLFmS5xo3EehkQRgcBSgAUcoqf4Cj9mTyCwEPm1Sif1Pqdbw5UoFCvNLNp6CET277J6
 
-Bitcoin Cash (BCH): qqypylwtyc9fe649tjn32mhrzz7d28jskcxg5rlnv2
+- Ethereum (ETH): 0xD11eA4a29775b21DcAf707408E6771373D1d5af9
+
+- Litecoin (LTC): ltc1qv4f7q970ajnjzuewj0wet5zed7z8s2qm44u8d7
+
+- Wownero (WOW): WW32Bch4nqE9ttJvMwXEiFCmPMwQQrBfAhg8vSRGNX95fV4kEVLZRjqBguQafPMqxxVXYqCqnyNdrFg5G7yrbEur2GcnpKNJp
+
+- Bitcoin Cash (BCH): qqypylwtyc9fe649tjn32mhrzz7d28jskcxg5rlnv2
 
 ---
 
