@@ -8,7 +8,7 @@
 
 I am the creator, developer, manager, and administrator of [PussTheCat.org](https://pussthecat.org/) (more information [Here](https://pussthecat.org/about/)).
 
-I currently manage [Invidious](https://github.com/iv-org/invidious) and the [Invidious project](https://github.com/iv-org).
+I currently manage [Invidious](https://invidious.io) and the [Invidious project](https://github.com/iv-org).
 
 I am also a non-professional System Administrator, Bug Tester, French Translator, Data Archivist.
 
@@ -52,19 +52,15 @@ Note: Ko-fi takes a 5% cut on monthly donations (it doesn't take a cut on one ti
 
 - Patreon: https://www.patreon.com/TheFrenchGhosty
 
-Note: Patreon takes a massive cut on donations: `8% + 5% + 0.15€ (for donations of 3€ or less)` or `8% + 3.4% + 0.35€ (for donations over 3€)` only use it if you really can't/don't want to use the others.
+Note: Patreon takes a massive cut on donations: `13% + 0.15€ (for donations of 3€ or less)` or `11.4% + 0.35€ (for donations over 3€)` only use it if you really can't/don't want to use the others.
 
 - Bitcoin (BTC): bc1qjpal63yc94jw03pnhu3vyfqv7djxsr0lmwe5jk
 
-- Monero (XMR): 44yL1VNsRmvW3khxHAQvzr9mfyfkMLFmS5xo3EehkQRgcBSgAUcoqf4Cj9mTyCwEPm1Sif1Pqdbw5UoFCvNLNp6CET277J6
-
-- Ethereum (ETH): 0xD11eA4a29775b21DcAf707408E6771373D1d5af9
+- Monero (XMR): 44yL1VNsRmvW3khxHAQvzr9mfyfkMLFmS5xo3EehkQRgcBSgAUcoqf4Cj9mTyCwEPm1Sif1Pqdbw5UoFCvNLNp6CET277J6 (preferred)
 
 - Litecoin (LTC): ltc1qv4f7q970ajnjzuewj0wet5zed7z8s2qm44u8d7
 
 - Wownero (WOW): WW32Bch4nqE9ttJvMwXEiFCmPMwQQrBfAhg8vSRGNX95fV4kEVLZRjqBguQafPMqxxVXYqCqnyNdrFg5G7yrbEur2GcnpKNJp
-
-- Bitcoin Cash (BCH): qqypylwtyc9fe649tjn32mhrzz7d28jskcxg5rlnv2
 
 ---
 
