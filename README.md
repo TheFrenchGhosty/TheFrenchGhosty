@@ -10,7 +10,7 @@ I am the creator, developer, manager, and administrator of [PussTheCat.org](http
 
 I currently manage [Invidious](https://invidious.io) and the [Invidious project](https://github.com/iv-org).
 
-I am also a non-professional System Administrator, Bug Tester, French Translator, Data Archivist.
+I am also a professional IT technician in my day job, and a non-professional sysadmin, bug tester, French translator, data archivist in my pastime!
 
 ---
 
