@@ -2,8 +2,6 @@
 
 **[Project manager](https://invidious.io/team/) of the [Invidious project](https://github.com/iv-org).**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheFrenchGhosty&show_icons=true&theme=dark)
-
 ---
 
 I am the creator, developer, manager, and administrator of [PussTheCat.org](https://pussthecat.org/) (more information [Here](https://pussthecat.org/about/)).
