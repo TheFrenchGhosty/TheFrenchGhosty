@@ -54,12 +54,6 @@ I am currently unemployed (I used to be a professional IT technician/sysadmin) i
 
 ---
 
-## Use my Referrals:
-
-- VPS: [Hetzner Cloud](https://hetzner.cloud/?ref=TNtQVkYhb6az) (you get 20€ of cloud credit without spending anything - we get 10€ of cloud credit after you spend 10€)
-
----
-
 ## Contact:
 
 If you want to get in touch with me, or other users of my projects, feel free to join the Matrix room of the [PussTheCat.org](https://pussthecat.org) project: [#pussthecat.org:pussthecat.org](https://matrix.to/#/#pussthecat.org:pussthecat.org).
