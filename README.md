@@ -73,7 +73,7 @@ If you want to get in touch with me, or other users of my projects, feel free to
 
 If you want to contact me directly:
 
-- **GPG-encrypted Email** (preferred) - see the [GPG key](#gpg) section below.
+- **GPG-encrypted Email** (preferred) - see the GPG key section below.
 
 - **Email** (preferred): `contact [at] pussthecat [dot] org`
 
