@@ -22,7 +22,7 @@ I am currently unemployed (I used to be a professional IT technician/sysadmin in
 
 - The [Ultimate Firefox Configuration](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-Firefox-Configuration): "The ultimate Firefox configuration that is acceptable Privacy-Wise while being as much feature-packed as possible."
 
-- Various [production-ready Docker images](https://github.com/PussTheCat-org?q=docker)
+- Various [production-ready Docker images](https://github.com/search?q=user%3ATheFrenchGhosty%20docker%20OR%20org%3APussTheCat-org%20docker&type=repositories)
 
 - [Awesome-Art](https://github.com/TheFrenchGhosty/awesome-art): "A curated list of as much artistic creations (movies/musics/games/books...) that are worth checking."
 
