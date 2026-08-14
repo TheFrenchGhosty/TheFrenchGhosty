@@ -7,7 +7,8 @@
 I am the creator, developer, manager, and administrator of [PussTheCat.org](https://pussthecat.org/) (more information [Here](https://pussthecat.org/about/)).
 
 I currently manage [Invidious](https://invidious.io) and the [Invidious project](https://github.com/iv-org).
-I am currently unemployed (I used to be a professional IT technician/sysadmin in my day job), and I'm a sysadmin, bug tester, French translator, data archivist in my pastime!
+
+I am currently unemployed (I used to be a professional IT technician/sysadmin in my day job and plan to still be), and I'm a sysadmin, bug tester, French translator, data archivist in my pastime!
 
 ---
 
