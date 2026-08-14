@@ -78,7 +78,7 @@ If you want to contact me directly:
 
 - **Email** (preferred): `contact [at] pussthecat [dot] org`
 
-- **Matrix**: `@thefrenchghosty:pussthecat.org`
+- **Matrix**: `@thefrenchghosty:tchncs.de`
 
 - **XMPP** (rarely used - OMEMO or unencrypted): `thefrenchghosty [at] disroot [dot] org`
 
